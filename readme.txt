@@ -1,0 +1,5 @@
+data文件夹里共有6个文件
+bird_train, bird_validation, cat_train, cat_validation用于训练和验证模型
+每一行有4097个数，前4096维为AlexNet fc7层的特征，最后一位为label，0为负例，1为正例
+bird_test和cat_test为测试集
+每一行有4096维，没有label，请严格按照训练集每一行的顺序给出预测的结果
