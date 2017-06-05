@@ -19,5 +19,3 @@ if __name__ == '__main__':
     # clf.fit(data[0], data[2])
     # pred = clf.predict(data[1])
     # print "DecisionTree", metrics.accuracy_score(data[3], pred)
-
-    
