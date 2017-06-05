@@ -1,6 +1,8 @@
 *.pdf
 *.pptx
 example/
-
+report/
 .idea
 *.pyc
+results.txt
+
